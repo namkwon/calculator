@@ -24,5 +24,4 @@ Only one argument allowed
 Calculated result
 
 ## Test
-Test example
 ![](https://github.com/namkwon/calculator/blob/master/docs/screenshot.png)
