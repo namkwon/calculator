@@ -17,7 +17,7 @@ npm install
 ## Inputs
 Only one argument allowed
 - Number - (Number) ex: 123
-- Expression - (String) ex: 'add 1 1'
+- Expression - (String) ex: '(add 1 1)'
 
 
 ## Output
