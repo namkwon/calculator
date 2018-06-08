@@ -1,0 +1,15 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "S-expression calculator",
+  "main": "calc.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Nam Kwon",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {}
+}
